@@ -5,7 +5,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     height:100vh;
-    place-items: left;
+    place-items: center;
     height: fit-content;
     
 }
@@ -17,7 +17,7 @@ body{
 
 span{
     position: absolute;
-    padding-left: 10%;
+    padding-left: 45%;
    align-items: center;
 }
 .card img{

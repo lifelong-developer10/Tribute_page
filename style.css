@@ -17,7 +17,7 @@ body{
 
 span{
     position: absolute;
-    padding-left: 2%;
+    padding-left: 45%;
    align-items: center;
 }
 .card img{
@@ -58,7 +58,7 @@ border-spacing: 0cap;
 
 .leftcolumn {
   
-    float: left;
+    float: right;
     width: 75%;
     padding-right: 0%;
     padding-top: 2%;

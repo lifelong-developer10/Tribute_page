@@ -5,7 +5,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     height:100vh;
-    place-items: center;
+    place-items: left;
     height: fit-content;
     
 }
@@ -17,7 +17,7 @@ body{
 
 span{
     position: absolute;
-    padding-left: 45%;
+    padding-left: 10%;
    align-items: center;
 }
 .card img{
@@ -58,9 +58,8 @@ border-spacing: 0cap;
 
 .leftcolumn {
   
-    float: right;
+    float: left;
     width: 75%;
-    padding-right: 0%;
     padding-top: 2%;
     position: absolute;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
